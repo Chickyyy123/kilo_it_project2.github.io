@@ -13,7 +13,7 @@ const Tesimonial = () => {
             classname="loader mx-auto"
           />
         </div>
-        <div className="mt-5 mb-3">
+        <div className="mt-5 mb-3 ">
           <SlideShow />
         </div>
       </div>
